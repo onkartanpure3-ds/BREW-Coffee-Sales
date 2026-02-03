@@ -1,4 +1,5 @@
 BREW-Coffee-Sales
+
 🚀 Coffee Sales Data Analysis | Excel Interactive Dashboard Project ☕📊
 
 I’m excited to share my Coffee Sales Data Analysis project, where I designed a professional, interactive Excel dashboard to extract meaningful business insights from raw sales data.
